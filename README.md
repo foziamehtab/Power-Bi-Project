@@ -1,2 +1,2 @@
-Project Summary: 
+# Project Summary: 
 Cleaned the data using power query editor, prepared dashboard, sales, profit report and detailed Report in Power BI and on the basis of findings it was concluded that Clothing Products were most saleable but Electronics products were the most profitable, the state Maharashtra provided the highest sales and revenue, and Credit Cards were the most preferable mode of payment some very significant insights related to store’s profit, sales and customers in different states. 
